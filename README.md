@@ -1,14 +1,14 @@
+### 👋 Hi, I'm Ben
 
-- 👋 Hi, I’m Ben
-- 👀 I’m interested in sci-fi, fantasy, arts & crafts, social dancing, graphic design and of course programming
-- 🌱 I’m currently learning to become a Java developer, but I already did some programming in the past. I used to make android apps in  C# and a bit in Java & kotlin too. 
-- I dabbled a bit in JavaScript (mainly in the Goolgle Apps Script API), and some other languages like LaTex, objective-C, ruby & python, but not enough to claim any skills.
-- I'm quite proficient in Photoshop and I'm familiar with Illustrator, inDesign and a little with GIMP.
-- I prefer the Google suite over MS office, so obviously my skills in the former exceed those in the latter.
-- 💞️ I’m looking to expand my skills and get some experience, hopefully the coronapocalypse doesn't prevent me from getting an internship this summer
-- 📫 How to reach me : 
-      - email: bac.desmedt@gmail.com
-      - Telegram: @Bennernog
+DevOps Tech Lead & Senior Developer, working full stack and owning the pipeline from database to browser to production.
+
+- 🔭 **What I do:** solution design and architecture, mentoring developers, and building features end to end on a multi-tenant HR SaaS platform
+- 🛠️ **Stack:** Java · Spring Boot · Hibernate/JPA · MySQL · Solr · Angular · TypeScript · Google Cloud · Firebase · Docker · CI/CD · Bash
+- 🤖 **Currently into:** AI-assisted development and automating anything I have to do more than twice
+- 🌱 **Origin story:** started out building Android apps in C# (plus some Java & Kotlin), moved to Java/Spring and worked my way up
+- 👀 **Off the clock:** sci-fi, fantasy, arts & crafts, social dancing, graphic design, and a home server that's never quite finished
+- 🌐 **More about me:** [bendesmedt.github.io](https://bendesmedt.github.io)
+- 📫 **Reach me:** [bacdesmedt@gmail.com](mailto:bacdesmedt@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bacdesmedt)
 <!--
 **bacdesmedt/bacdesmedt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
